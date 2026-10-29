@@ -1,0 +1,21 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "name": "typescript-merge-project",\
+  "version": "1.0.0",\
+  "scripts": \{\
+    "build": "tsc",\
+    "test": "jest"\
+  \},\
+  "devDependencies": \{\
+    "@types/jest": "^29.5.12",\
+    "jest": "^29.7.0",\
+    "ts-jest": "^29.1.2",\
+    "typescript": "^5.4.5"\
+  \}\
+\}}
